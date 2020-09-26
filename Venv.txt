@@ -1,0 +1,2 @@
+python -m venv backendRestapi
+backendRestapi\Scripts\activate
